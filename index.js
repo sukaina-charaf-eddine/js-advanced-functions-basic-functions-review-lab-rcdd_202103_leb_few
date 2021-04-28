@@ -1,5 +1,5 @@
 // Your code here
-function saturdayFun(activity="..."){
+function saturdayFun(activity){
   console.log("This Saturday, I want to ${activity}!");
 }
 saturdayFun();
